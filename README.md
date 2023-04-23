@@ -1,7 +1,6 @@
 # MGRouter
 
 Simple network library for Swift.
-## Work in progress
 
 ## Example
 
