@@ -1,7 +1,7 @@
 # MGRouter
 
 [//![CI Status](https://img.shields.io/travis/Moinuddin Girach/MGRouter.svg?style=flat)](https://travis-ci.org/Moinuddin Girach/MGRouter)
-[//][![Version](https://img.shields.io/cocoapods/v/MGRouter.svg?style=flat)](https://cocoapods.org/pods/MGRouter)
+[//]:[![Version](https://img.shields.io/cocoapods/v/MGRouter.svg?style=flat)](https://cocoapods.org/pods/MGRouter)
 [//][![License](https://img.shields.io/cocoapods/l/MGRouter.svg?style=flat)](https://cocoapods.org/pods/MGRouter)
 [//][![Platform](https://img.shields.io/cocoapods/p/MGRouter.svg?style=flat)](https://cocoapods.org/pods/MGRouter)
 
