@@ -1,0 +1,6 @@
+framework module MGRouter {
+  umbrella header "MGRouter-umbrella.h"
+
+  export *
+  module * { export * }
+}

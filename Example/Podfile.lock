@@ -1,0 +1,16 @@
+PODS:
+  - MGRouter (0.1.0)
+
+DEPENDENCIES:
+  - MGRouter (from `../`)
+
+EXTERNAL SOURCES:
+  MGRouter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MGRouter: 1b633d6a0e048e5f721bcc24ec37121b69ad2cb7
+
+PODFILE CHECKSUM: a1d3358addc71c47fa7f88660d36983dd58d8d0e
+
+COCOAPODS: 1.12.1

@@ -1,0 +1,22 @@
+{
+  "name": "MGRouter",
+  "version": "0.1.0",
+  "summary": "A short description of MGRouter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Moinuddin Girach/MGRouter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Moinuddin Girach": "moinuddingirach@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Moinuddin Girach/MGRouter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MGRouter/Classes/**/*"
+}
